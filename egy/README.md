@@ -1,0 +1,1 @@
+# Rombusz terület számolás
